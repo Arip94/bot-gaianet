@@ -1,2 +1,1 @@
-apikey|domain
-apikey|domain
+nick.gaia.domains|https://nick.gaia.domains/v1/chat/completions
